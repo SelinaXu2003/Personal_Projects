@@ -4,7 +4,7 @@ Created on Fri Jun 19 13:16:39 2020
 
 @author: selin
 """
-
+# w= up, d= right, a= left and s= down
 
 import turtle
 import time
